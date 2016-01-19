@@ -1,0 +1,7 @@
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\bin\Debug\DataLayer.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\bin\Debug\DataLayer.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\obj\Debug\DataLayer.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\obj\Debug\DataLayer.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\bin\Debug\DomainClasses.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DataLayer\bin\Debug\DomainClasses.pdb

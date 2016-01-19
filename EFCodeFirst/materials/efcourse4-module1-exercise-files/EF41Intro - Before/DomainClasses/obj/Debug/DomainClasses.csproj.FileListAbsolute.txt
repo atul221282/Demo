@@ -1,0 +1,5 @@
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DomainClasses\bin\Debug\DomainClasses.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DomainClasses\bin\Debug\DomainClasses.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DomainClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DomainClasses\obj\Debug\DomainClasses.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 4 EF 41\Intro\EF41Intro\DomainClasses\obj\Debug\DomainClasses.pdb
