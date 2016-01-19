@@ -1,0 +1,40 @@
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb

@@ -1,0 +1,14 @@
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll.config
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\Projects\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb

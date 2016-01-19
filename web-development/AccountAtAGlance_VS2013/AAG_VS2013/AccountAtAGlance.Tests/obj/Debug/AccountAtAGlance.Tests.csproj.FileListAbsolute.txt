@@ -1,0 +1,524 @@
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\1. Creating the Application Projects\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\3. Creating Model Classes and Testing Validation\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\4. Creating the DbContext Class\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\5. Creating Repository Classes\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\6. Creating a StockEngine Class and Repository Methods\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\7. Creating Controllers and Actions\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\BillDan\MVC Course\Labs\LabCode\9. Adding Dependency Injection Functionality\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\WebGrease.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+C:\Users\wahlind\Dropbox\Shared\BillDan\MVC Course\Labs\LabCode\11. Creating Tile Scripts and Templates\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojFakesResolveAssemblyReference.cache
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll.config
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Tests.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.fakesconfig
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Model.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\AccountAtAGlance.Repository.Fakes.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Razor.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Model.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.fakesconfig
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.Fakes.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\AccountAtAGlance.Repository.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.SqlServer.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.SqlServer.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\EntityFramework.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.Practices.Unity.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.Practices.Unity.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Newtonsoft.Json.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\Newtonsoft.Json.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Net.Http.Formatting.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Net.Http.Formatting.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Helpers.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Helpers.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.WebHost.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.WebHost.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Http.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Mvc.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Mvc.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Optimization.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Optimization.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Razor.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.Razor.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.Deployment.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.Deployment.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.Razor.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.Razor.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\b\System.Web.WebPages.xml
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ah
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.ch
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.cs
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.csproj
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakes
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\f.fakesconfig
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.dll
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\AccountAtAGlance.Repository.Fakes.pdb
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csproj.FileListAbsolute.txt
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\aaagr\o\f.csprojResolveAssemblyReference.cache
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\Fakes\fakes.args
+D:\Wahlin Group\Courses\Building an ASP.NET MVC, HTML5, jQuery Application\LabCode\13. Integrating HTML5 Technologies\End\AccountAtAGlance.Tests\obj\Debug\AccountAtAGlance.Tests.csprojResolveAssemblyReference.cache

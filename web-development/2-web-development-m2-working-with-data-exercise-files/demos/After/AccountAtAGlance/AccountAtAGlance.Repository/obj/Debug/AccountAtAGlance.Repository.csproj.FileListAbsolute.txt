@@ -1,0 +1,27 @@
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll.config
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.xml
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll.config
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\EntityFramework.xml
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\ResolveAssemblyReference.cache
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\After\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb

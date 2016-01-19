@@ -1,0 +1,46 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3A4ABD96-99E6-40DD-818D-F7AF38D9F07D/f:BrokerageAccount.cs" caret="0" fromTop="0" />
+      <File id="3A4ABD96-99E6-40DD-818D-F7AF38D9F07D/d:Repository/f:AccountRepository.cs" caret="213" fromTop="9" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Controllers/f:HomeController.cs" caret="1466" fromTop="8" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.tile.formatter.js" caret="366" fromTop="9" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.dataservice.js" caret="0" fromTop="0" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="569" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.tile.binder.js" caret="0" fromTop="0" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.tile.renderer.js" caret="517" fromTop="22" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.statemanager.js" caret="1945" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Controllers/f:HomeController.cs" caret="1287" fromTop="5" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="1083" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="1083" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="1083" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="1083" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="1083" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.layoutservice.js" caret="569" fromTop="11" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.statemanager.js" caret="2244" fromTop="12" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.statemanager.js" caret="1077" fromTop="15" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.statemanager.js" caret="2250" fromTop="16" />
+      <File id="D43EBF23-10F1-4351-98BC-52DEDA398BF1/d:Scripts/f:scene.statemanager.js" caret="1611" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
